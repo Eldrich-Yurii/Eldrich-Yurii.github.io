@@ -71,3 +71,12 @@ nav li {
     transition: .5s;
   }
 
+  .form {
+    flex: 1;
+    max-width: 800px;
+    margin: 40px auto;
+    color: #fff;
+    padding: 20px;
+    background-color: #0b3a46d0;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+  }
