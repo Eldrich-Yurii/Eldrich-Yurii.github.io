@@ -23,10 +23,6 @@ img {
     filter: brightness(0.8);
 }
 
-.masterhead {
-    min-height: 60vh;
-    object-fit: cover;
-}
 
 .bak {
     background-image: url(../asset/bg.jpg);
@@ -74,3 +70,4 @@ nav li {
     padding: 2px;
     transition: .5s;
   }
+
